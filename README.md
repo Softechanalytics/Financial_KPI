@@ -20,6 +20,8 @@
 </ul>
 
 <h3>📊 Insights</h3>
+
+![image alt](https://github.com/Softechanalytics/Financial_KPI/blob/6c8de91652b6b45d49974582a9bcb99382d19826/FinancialKPI%20Dashboard.png)
 <ul>
 <li>Total Sales Actual: $4.65M | YTD: $521.76K</li>
 
