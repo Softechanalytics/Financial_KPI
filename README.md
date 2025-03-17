@@ -39,6 +39,8 @@
 <li>Sales peaked from $295,668 to $377,041.50 between Jan - Mar 2023.</li>
 </ul>
 <h3>📌 How to Use</h3>
+
+![image alt](https://github.com/Softechanalytics/Financial_KPI/blob/7aa2b9b1a66f20b9f7858f68c34e234e59604bdc/FinancialKPI%20model.png)
 <ul>
 <li>Open the Power BI dashboard.</li>
 
