@@ -48,7 +48,7 @@
 
 <li>Observe key insights in the trend analysis panel.</li>
 </ul>
-<h3>🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 <ul>
 <li>Power BI: Data visualization</li>
 
